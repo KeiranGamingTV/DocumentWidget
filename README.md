@@ -1,2 +1,2 @@
 # DocumentWidget
-View PDF documents in a widget on your home screen.
+View PDF and DOCX documents in a widget on your home screen.

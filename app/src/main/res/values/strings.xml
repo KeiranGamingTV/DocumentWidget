@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">Document Widget</string>
+
+    <string name="widget_description">
+        Preview a document directily on your home screen.
+    </string>
+
+</resources>
